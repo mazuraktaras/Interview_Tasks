@@ -89,7 +89,6 @@ class DatabaseConnection:
 
 
 if __name__ == "__main__":
-
     mysql_connector = DatabaseConnectorMySQL()
     connection = DatabaseConnection(DatabaseConnectorSQLLite())
 
@@ -102,5 +101,4 @@ if __name__ == "__main__":
 
     connection.get_data()
     connection.store_data('DATA')
-    connection.connection_info() #
-
+    connection.connection_info()
