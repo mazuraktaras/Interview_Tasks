@@ -102,4 +102,4 @@ if __name__ == "__main__":
 
     connection.get_data()
     connection.store_data('DATA')
-    connection.connection_info()
+    # connection.connection_info()
