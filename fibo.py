@@ -63,6 +63,9 @@ def fibonacci_newest(n):
     return dp[n]
 
 
-print(fibonacci_old(37))
-print(fibonacci_new(37))
-print(fibonacci_newest(37))
+#
+#
+
+fibonacci = timer_logger(fibonacci)
+
+print()

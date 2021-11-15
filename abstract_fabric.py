@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod
+from abstract import ABC, abstractmethod
 
 
 # ------------ Product Base Class ------------

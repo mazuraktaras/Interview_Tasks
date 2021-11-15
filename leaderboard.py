@@ -1,4 +1,4 @@
-from abc import ABCMeta, abstractmethod
+from abstract import ABCMeta, abstractmethod
 
 
 class Leaderboard:

@@ -1,4 +1,4 @@
-from abc import ABC
+from abstract import ABC
 
 
 class Mediator(ABC):
