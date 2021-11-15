@@ -41,6 +41,4 @@ print(fetcher.urls)
 print(other_fetcher.urls)
 
 # test 1
-# test 1
-# test 1
-# test 1
+
