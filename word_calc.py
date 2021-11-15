@@ -11,3 +11,4 @@ def letters_calc(input_string):
 
 st = 'zebra'
 print(letters_calc(st))
+# dev commit
