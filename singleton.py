@@ -39,6 +39,6 @@ other_fetcher.fetch('https://python.org')
 print(fetcher is other_fetcher)
 print(fetcher.urls)
 print(other_fetcher.urls)
-
+# test 2
 # test 1
 
