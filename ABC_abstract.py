@@ -21,4 +21,3 @@ class Concrete(Base):
 
 
 instance = Concrete()
-
