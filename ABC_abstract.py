@@ -21,3 +21,4 @@ class Concrete(Base):
 
 
 instance = Concrete()
+# instance = Concrete()
