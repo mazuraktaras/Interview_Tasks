@@ -10,6 +10,9 @@ class Concrete(Base):
     def method_one(self):
         print('Do something')
 
+    def method_two(self):
+        print('Do something')
+
 
 instance = Concrete()
 
